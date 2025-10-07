@@ -3,4 +3,4 @@ def greet(name)
     "Hello, #{name}!"
 end
 
-puts greet("Fengyuan")
+puts greet("Fengyuan")# edit test.rb
